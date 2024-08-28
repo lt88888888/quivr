@@ -9,7 +9,17 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/StanGirard?style=social)](https://twitter.com/_StanGirard)
 
 Quivr, your second brain, utilizes the power of GenerativeAI to be your personal assistant ! Think of it as Obsidian, but turbocharged with AI capabilities.
+一个由生成式AI驱动的超级个人助理项目：Quivr ，基于其RAG框架，构建用户的“第二大脑”
 
+可以用于个人知识管理、数据整合、自动化任务、研究辅助、内容创作、翻译等等多用途
+
+特点：
+1、快速高效：以速度和效率为核心设计，可快速访问数据
+2、支持多种 LLM：GPT 3.5/4 turbo、Private、Anthropic、VertexAI、Ollama、Groq等
+3、安全性：用户完全控制自己的数据
+4、文件兼容性：支持文本、Markdown、PDF、PowerPoint、Excel、CSV、Word、音频和视频文件
+5、公开/私有：可通过公共链接分享，或保持私有
+6、支持离线模式，支持分享
 [Roadmap here](https://docs.quivr.app/docs/roadmap)
 
 ## Key Features 🎯
